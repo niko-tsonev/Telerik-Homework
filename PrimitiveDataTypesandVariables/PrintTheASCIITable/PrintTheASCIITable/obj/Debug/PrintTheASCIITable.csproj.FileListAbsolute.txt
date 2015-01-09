@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintTheASCIITable\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintTheASCIITable\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintTheASCIITable\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintTheASCIITable\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintTheASCIITable\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

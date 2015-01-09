@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\QuotesInStrings\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\QuotesInStrings\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\QuotesInStrings\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\QuotesInStrings\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\QuotesInStrings\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

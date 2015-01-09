@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\StringsAndObjects\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\StringsAndObjects\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\StringsAndObjects\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\StringsAndObjects\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\StringsAndObjects\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

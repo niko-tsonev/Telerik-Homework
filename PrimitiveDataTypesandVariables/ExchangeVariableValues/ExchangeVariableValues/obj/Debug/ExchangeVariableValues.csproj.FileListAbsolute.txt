@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\ExchangeVariableValues\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\ExchangeVariableValues\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\ExchangeVariableValues\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\ExchangeVariableValues\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\ExchangeVariableValues\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\bin\Debug\ComparingFloats.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\bin\Debug\ComparingFloats.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\obj\Debug\ComparingFloats.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\obj\Debug\ComparingFloats.pdb

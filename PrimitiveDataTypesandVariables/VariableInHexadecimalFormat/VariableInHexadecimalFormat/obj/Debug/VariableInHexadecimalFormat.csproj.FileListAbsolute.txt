@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\VariableInHexadecimalFormat\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\VariableInHexadecimalFormat\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\VariableInHexadecimalFormat\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\VariableInHexadecimalFormat\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\VariableInHexadecimalFormat\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

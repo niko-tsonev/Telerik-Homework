@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\IsoscelesTriangle\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\IsoscelesTriangle\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\IsoscelesTriangle\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\IsoscelesTriangle\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\IsoscelesTriangle\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

@@ -1,0 +1,2 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\FloatOrDouble\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Kambocha\Documents\GitHub\Telerik-Homework\PrimitiveDataTypesandVariablesHomework\FloatOrDouble\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config

@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\BooleanVariable\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\BooleanVariable\BooleanVariable\bin\Debug\BooleanVariable.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\BooleanVariable\BooleanVariable\bin\Debug\BooleanVariable.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\BooleanVariable\BooleanVariable\obj\Debug\BooleanVariable.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\BooleanVariable\BooleanVariable\obj\Debug\BooleanVariable.pdb

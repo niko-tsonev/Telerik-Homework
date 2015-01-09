@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\UnicodeCharacter\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\UnicodeCharacter\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\UnicodeCharacter\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\UnicodeCharacter\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\UnicodeCharacter\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

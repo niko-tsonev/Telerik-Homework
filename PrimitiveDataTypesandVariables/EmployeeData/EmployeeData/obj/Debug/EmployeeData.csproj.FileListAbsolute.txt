@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\EmployeeData\EmployeeData\bin\Debug\EmployeeData.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\EmployeeData\EmployeeData\bin\Debug\EmployeeData.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\EmployeeData\EmployeeData\bin\Debug\EmployeeData.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\EmployeeData\EmployeeData\obj\Debug\EmployeeData.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb

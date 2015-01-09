@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\BankAccountData\BankAccountData\bin\Debug\BankAccountData.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\BankAccountData\BankAccountData\bin\Debug\BankAccountData.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\BankAccountData\BankAccountData\bin\Debug\BankAccountData.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\BankAccountData\BankAccountData\obj\Debug\BankAccountData.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\BankAccountData\BankAccountData\obj\Debug\BankAccountData.pdb
