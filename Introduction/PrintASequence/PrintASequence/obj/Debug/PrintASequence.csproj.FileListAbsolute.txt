@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\bin\Debug\PrintASequence.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\bin\Debug\PrintASequence.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\bin\Debug\PrintASequence.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\obj\Debug\PrintASequence.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\obj\Debug\PrintASequence.pdb

@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

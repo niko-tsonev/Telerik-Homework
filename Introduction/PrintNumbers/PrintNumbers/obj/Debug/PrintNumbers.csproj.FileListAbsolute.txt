@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.pdb

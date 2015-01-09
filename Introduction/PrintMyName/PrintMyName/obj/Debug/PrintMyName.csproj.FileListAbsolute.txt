@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\obj\Debug\PrintMyName.pdb
