@@ -1,0 +1,6 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\bin\Debug\Trapezoids.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\bin\Debug\Trapezoids.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\bin\Debug\Trapezoids.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+c:\users\kambocha\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\obj\Debug\Trapezoids.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\Trapezoids\Trapezoids\obj\Debug\Trapezoids.pdb

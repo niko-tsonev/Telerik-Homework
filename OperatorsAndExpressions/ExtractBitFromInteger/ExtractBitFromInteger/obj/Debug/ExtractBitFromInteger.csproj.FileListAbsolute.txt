@@ -1,0 +1,6 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\ExtractBitFromInteger\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\ExtractBitFromInteger\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\ExtractBitFromInteger\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\ExtractBitFromInteger\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+c:\users\kambocha\documents\visual studio 2013\Projects\ExtractBitFromInteger\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\ExtractBitFromInteger\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

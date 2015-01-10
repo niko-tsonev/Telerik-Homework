@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PrimeNumberCheck\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

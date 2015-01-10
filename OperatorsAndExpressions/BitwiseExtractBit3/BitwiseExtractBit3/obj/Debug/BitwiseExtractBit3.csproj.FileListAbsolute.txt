@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\BitwiseExtractBit3\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\BitwiseExtractBit3\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\BitwiseExtractBit3\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\BitwiseExtractBit3\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\BitwiseExtractBit3\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.pdb

@@ -1,0 +1,6 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\DevidedBy7And5\DevidedBy7And5\bin\Debug\DevidedBy7And5.exe.config
+C:\Users\Kambocha\documents\visual studio 2013\Projects\DevidedBy7And5\DevidedBy7And5\bin\Debug\DevidedBy7And5.exe
+C:\Users\Kambocha\documents\visual studio 2013\Projects\DevidedBy7And5\DevidedBy7And5\bin\Debug\DevidedBy7And5.pdb
+C:\Users\Kambocha\documents\visual studio 2013\Projects\DevidedBy7And5\DevidedBy7And5\obj\Debug\DevidedBy7And5.csprojResolveAssemblyReference.cache
+C:\Users\Kambocha\documents\visual studio 2013\Projects\DevidedBy7And5\DevidedBy7And5\obj\Debug\DevidedBy7And5.exe
+C:\Users\Kambocha\documents\visual studio 2013\Projects\DevidedBy7And5\DevidedBy7And5\obj\Debug\DevidedBy7And5.pdb

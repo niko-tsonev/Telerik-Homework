@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\PointInACircle\PointInACircle\bin\Debug\PointInACircle.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\PointInACircle\PointInACircle\bin\Debug\PointInACircle.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PointInACircle\PointInACircle\bin\Debug\PointInACircle.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\PointInACircle\PointInACircle\obj\Debug\PointInACircle.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\PointInACircle\PointInACircle\obj\Debug\PointInACircle.pdb

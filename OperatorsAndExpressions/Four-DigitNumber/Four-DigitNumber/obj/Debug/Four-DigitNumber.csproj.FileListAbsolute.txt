@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\Four-DigitNumber\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\Four-DigitNumber\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\Four-DigitNumber\Four-DigitNumber\bin\Debug\Four-DigitNumber.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\Four-DigitNumber\Four-DigitNumber\obj\Debug\Four-DigitNumber.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\Four-DigitNumber\Four-DigitNumber\obj\Debug\Four-DigitNumber.pdb

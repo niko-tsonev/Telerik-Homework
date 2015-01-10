@@ -1,0 +1,5 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\CheckABitAtAGivenPosition\CheckABitAtAGivenPosition\bin\Debug\CheckABitAtAGivenPosition.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\CheckABitAtAGivenPosition\CheckABitAtAGivenPosition\bin\Debug\CheckABitAtAGivenPosition.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\CheckABitAtAGivenPosition\CheckABitAtAGivenPosition\bin\Debug\CheckABitAtAGivenPosition.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\CheckABitAtAGivenPosition\CheckABitAtAGivenPosition\obj\Debug\CheckABitAtAGivenPosition.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\CheckABitAtAGivenPosition\CheckABitAtAGivenPosition\obj\Debug\CheckABitAtAGivenPosition.pdb

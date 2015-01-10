@@ -1,0 +1,6 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.csprojResolveAssemblyReference.cache
+c:\users\kambocha\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\ThirdDigitIs7\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb
