@@ -1,0 +1,6 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\PrintCompanyInformation\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+C:\Users\Kambocha\documents\visual studio 2013\Projects\PrintCompanyInformation\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+C:\Users\Kambocha\documents\visual studio 2013\Projects\PrintCompanyInformation\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+C:\Users\Kambocha\documents\visual studio 2013\Projects\PrintCompanyInformation\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.csprojResolveAssemblyReference.cache
+C:\Users\Kambocha\documents\visual studio 2013\Projects\PrintCompanyInformation\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Kambocha\documents\visual studio 2013\Projects\PrintCompanyInformation\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb

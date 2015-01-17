@@ -1,0 +1,6 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\CirclePerimeterAndArea\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\CirclePerimeterAndArea\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\CirclePerimeterAndArea\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\CirclePerimeterAndArea\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\CirclePerimeterAndArea\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\CirclePerimeterAndArea\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.csprojResolveAssemblyReference.cache

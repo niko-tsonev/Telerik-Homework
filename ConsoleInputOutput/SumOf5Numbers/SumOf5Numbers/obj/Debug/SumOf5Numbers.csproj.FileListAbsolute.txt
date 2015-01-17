@@ -1,0 +1,1 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\SumOf5Numbers\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config

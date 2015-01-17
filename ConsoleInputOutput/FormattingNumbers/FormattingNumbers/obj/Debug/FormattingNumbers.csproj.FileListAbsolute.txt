@@ -1,0 +1,6 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\FormattingNumbers\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\FormattingNumbers\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\FormattingNumbers\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\FormattingNumbers\FormattingNumbers\obj\Debug\FormattingNumbers.csprojResolveAssemblyReference.cache
+c:\users\kambocha\documents\visual studio 2013\Projects\FormattingNumbers\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\FormattingNumbers\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

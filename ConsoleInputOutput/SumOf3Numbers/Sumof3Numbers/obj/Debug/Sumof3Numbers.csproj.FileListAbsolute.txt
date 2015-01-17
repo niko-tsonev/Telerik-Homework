@@ -1,0 +1,6 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\Sumof3Numbers\Sumof3Numbers\bin\Debug\Sumof3Numbers.exe.config
+c:\users\kambocha\documents\visual studio 2013\Projects\Sumof3Numbers\Sumof3Numbers\obj\Debug\Sumof3Numbers.csprojResolveAssemblyReference.cache
+c:\users\kambocha\documents\visual studio 2013\Projects\Sumof3Numbers\Sumof3Numbers\bin\Debug\Sumof3Numbers.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\Sumof3Numbers\Sumof3Numbers\bin\Debug\Sumof3Numbers.pdb
+c:\users\kambocha\documents\visual studio 2013\Projects\Sumof3Numbers\Sumof3Numbers\obj\Debug\Sumof3Numbers.exe
+c:\users\kambocha\documents\visual studio 2013\Projects\Sumof3Numbers\Sumof3Numbers\obj\Debug\Sumof3Numbers.pdb

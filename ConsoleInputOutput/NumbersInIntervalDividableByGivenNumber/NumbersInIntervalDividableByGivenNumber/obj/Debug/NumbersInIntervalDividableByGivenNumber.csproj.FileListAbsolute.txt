@@ -1,0 +1,1 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\NumbersInIntervalDividableByGivenNumber\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config

@@ -1,0 +1,1 @@
+c:\users\kambocha\documents\visual studio 2013\Projects\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
