@@ -1,0 +1,1 @@
+C:\Users\Kambocha\Desktop\TelerikAcademy-master\Homeworks\C#1\Conditional-Statements\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
